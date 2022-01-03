@@ -2,7 +2,7 @@
 This project was built using React for frontend and a TMDB APIs . You can find all latest movies and search for movies based on their names,genres and release year .
 Every Movie has a page containing all it's information .
 # Technologies
-React for front end . Redux for state management.Styled Components for styling using SASS . 
+React . Redux for React state management.Styled Components for styling using SASS . 
 # Images
 ![localhost_3000_movieDetails_634649](https://user-images.githubusercontent.com/64036214/147957943-9aae3393-065e-44c0-b77e-accc94314d91.png)
 
